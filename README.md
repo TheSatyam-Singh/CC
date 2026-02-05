@@ -1,6 +1,6 @@
 # Competitive Coding
 
-## Student Information
+## Student Details
 - **Name:** Satyam Singh
 - **Section:** 24BCS_KRG_601_B
 - **Roll Number:** 24BCS12662  
