@@ -6,5 +6,6 @@
 - **Roll Number:** 24BCS12662  
 
 ## Experiments
-- Experiment 1
-- Experiment 2
+- Experiment 0 (Carnival Wheel)
+- Experiment 1 (Superultra's Favorite Permutation)
+- Experiment 2 (Replace Character)
