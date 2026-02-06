@@ -9,3 +9,4 @@
 - Experiment 0 (Carnival Wheel)
 - Experiment 1 (Superultra's Favorite Permutation)
 - Experiment 2 (Replace Character)
+- Experiment 3 (Flipping Game)
