@@ -10,3 +10,4 @@
 - Experiment 1 (Superultra's Favorite Permutation)
 - Experiment 2 (Replace Character)
 - Experiment 3 (Flipping Game)
+- Lab MST (Find the Smallest Divisor Given a Threshold (LC1283), Combination Sum II (LC40))
